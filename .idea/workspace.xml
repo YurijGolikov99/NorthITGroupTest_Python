@@ -1,20 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1aca6aa0-2327-40d6-b475-f89e57abb308" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/conditional_statement/ComparisonTwoNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/conditional_statement/ComparisonTwoNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/conditional_statement/EvenOrOddNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/conditional_statement/EvenOrOddNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/conditional_statement/IsoscelesTriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/conditional_statement/IsoscelesTriangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/conditional_statement/QuantityNegativeAndPositiveNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/conditional_statement/QuantityNegativeAndPositiveNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/conditional_statement/ShopProgram.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/conditional_statement/ShopProgram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/conditional_statement/SmallerThanTen.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/conditional_statement/SmallerThanTen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/conditional_statement/SumLargestAndSmallestOfThreeNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/conditional_statement/SumLargestAndSmallestOfThreeNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/conditional_statement/TheBiggestOfThreeNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/conditional_statement/TheBiggestOfThreeNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/loops/MultiplicationTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/loops/MultiplicationTable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/loops/PrintFactorialOfANumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/loops/PrintFactorialOfANumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/loops/PrintLineBySymbols.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/loops/PrintLineBySymbols.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/loops/TakeOutEvenNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/loops/TakeOutEvenNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/loops/TakeOutFibonacciNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/loops/TakeOutFibonacciNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2bdFEUFoL5drO9weSqCCGIjDiyY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -23,10 +50,31 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.ComparisonTwoNumbers.executor": "Run",
+    "Python.IsoscelesTriangle.executor": "Run",
+    "Python.MultiplicationTable.executor": "Run",
+    "Python.PrintFactorialOfANumber.executor": "Run",
+    "Python.PrintLineBySymbols.executor": "Run",
+    "Python.QuantityNegativeAndPositiveNumbers.executor": "Run",
+    "Python.ShopProgram.executor": "Run",
+    "Python.SmallerThanTen.executor": "Run",
+    "Python.TakeOutEvenNumber.executor": "Run",
+    "Python.TakeOutFibonacciNumbers.executor": "Run",
+    "Python.TheBiggestOfThreeNumbers.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/golikovyurijalexandrovich/PycharmProjects/NorthITGroupTest_QA",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Debugger"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main/conditional_statement" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/main" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="NorthITGroupTest_QA" />
@@ -37,8 +85,9 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.12 (NorthITGroupTest_QA)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
@@ -68,16 +117,5 @@
       <updated>1706536937181</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
