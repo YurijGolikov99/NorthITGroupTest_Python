@@ -4,21 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1aca6aa0-2327-40d6-b475-f89e57abb308" name="Changes" comment="">
+    <list default="true" id="1aca6aa0-2327-40d6-b475-f89e57abb308" name="Changes" comment="part 3: start by">
+      <change afterPath="$PROJECT_DIR$/main/arrays/PrintGreatestNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/arrays/SumOfEvenNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/arrays/SumOfNumbersWithEvenIndex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/conditional_statement/ComparisonTwoNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/conditional_statement/ComparisonTwoNumbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/conditional_statement/EvenOrOddNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/conditional_statement/EvenOrOddNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/conditional_statement/IsoscelesTriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/conditional_statement/IsoscelesTriangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/conditional_statement/QuantityNegativeAndPositiveNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/conditional_statement/QuantityNegativeAndPositiveNumbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/conditional_statement/ShopProgram.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/conditional_statement/ShopProgram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/conditional_statement/SmallerThanTen.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/conditional_statement/SmallerThanTen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/conditional_statement/SumLargestAndSmallestOfThreeNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/conditional_statement/SumLargestAndSmallestOfThreeNumbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/conditional_statement/TheBiggestOfThreeNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/conditional_statement/TheBiggestOfThreeNumbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/loops/MultiplicationTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/loops/MultiplicationTable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/loops/PrintFactorialOfANumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/loops/PrintFactorialOfANumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/loops/PrintLineBySymbols.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/loops/PrintLineBySymbols.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/loops/TakeOutEvenNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/loops/TakeOutEvenNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/loops/TakeOutFibonacciNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/loops/TakeOutFibonacciNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/arrays/CountOfPositiveAndNegative.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/arrays/CountOfPositiveAndNegative.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +25,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -48,26 +44,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ComparisonTwoNumbers.executor": "Run",
-    "Python.IsoscelesTriangle.executor": "Run",
-    "Python.MultiplicationTable.executor": "Run",
-    "Python.PrintFactorialOfANumber.executor": "Run",
-    "Python.PrintLineBySymbols.executor": "Run",
-    "Python.QuantityNegativeAndPositiveNumbers.executor": "Run",
-    "Python.ShopProgram.executor": "Run",
-    "Python.SmallerThanTen.executor": "Run",
-    "Python.TakeOutEvenNumber.executor": "Run",
-    "Python.TakeOutFibonacciNumbers.executor": "Run",
-    "Python.TheBiggestOfThreeNumbers.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/golikovyurijalexandrovich/PycharmProjects/NorthITGroupTest_QA",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Debugger"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ComparisonTwoNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CountOfPositiveAndNegative.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IsoscelesTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MultiplicationTable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrintFactorialOfANumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrintGreatestNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrintLineBySymbols.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QuantityNegativeAndPositiveNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ShopProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SmallerThanTen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SumOfEvenNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SumOfNumbersWithEvenIndex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TakeOutEvenNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TakeOutFibonacciNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TheBiggestOfThreeNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/golikovyurijalexandrovich/PycharmProjects/NorthITGroupTest_QA&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Debugger&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/main/conditional_statement" />
@@ -116,6 +116,28 @@
       <option name="presentableId" value="Default" />
       <updated>1706536937181</updated>
     </task>
+    <task id="LOCAL-00001" summary="test commit">
+      <option name="closed" value="true" />
+      <created>1706731668607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706731668607</updated>
+    </task>
+    <task id="LOCAL-00002" summary="part 3: start by">
+      <option name="closed" value="true" />
+      <created>1706732235701</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706732235701</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test commit" />
+    <MESSAGE value="part 3: start by" />
+    <option name="LAST_COMMIT_MESSAGE" value="part 3: start by" />
   </component>
 </project>
