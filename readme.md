@@ -38,10 +38,6 @@
 - `SumOfNumbersWithEvenIndex` - Класс для решения задачи №2
 - `SumOfEvenNumbers` - Класс для решения задачи №3
 - `PrintGreatestNumber` - Класс для решения задачи №4
-- `TheMostOftenFoundedNumbers` - Класс для решения задачи №5
-- `SelectionNumbersByPlaceDiagonally` - Класс для решения задачи №6
-- `ReverseSelection` - Класс для решения задачи №7
-- `CountSumInColumn` - Класс для решения задачи №8
 
 
 ## Лицензия
