@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1aca6aa0-2327-40d6-b475-f89e57abb308" name="Changes" comment="part 3: start by">
-      <change afterPath="$PROJECT_DIR$/main/arrays/PrintGreatestNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/arrays/SumOfEvenNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/arrays/SumOfNumbersWithEvenIndex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/arrays/CountOfPositiveAndNegative.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/arrays/CountOfPositiveAndNegative.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="1aca6aa0-2327-40d6-b475-f89e57abb308" name="Changes" comment="completed task 1 - 4 in arrays" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,12 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1706732235701</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="completed task 1 - 4 in arrays">
+      <option name="closed" value="true" />
+      <created>1706801395376</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706801395376</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
     <MESSAGE value="part 3: start by" />
-    <option name="LAST_COMMIT_MESSAGE" value="part 3: start by" />
+    <MESSAGE value="completed task 1 - 4 in arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed task 1 - 4 in arrays" />
   </component>
 </project>
